@@ -1,0 +1,149 @@
+{
+  "firma": "APLANA Golzow",
+  "stelle": "Herdenmanager (m/w/d)",
+  "ort": "Golzow",
+  "plz": "14778",
+  "branche": "landwirtschaft",
+  "farbe_primary": "#0B2380",
+  "farbe_secondary": "#3F6E26",
+  "region_badge": "Golzow & Umgebung",
+  "benefit_top": "Unbefristet & Wohnraum-Angebot",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Jahresprämie und Weihnachtsgeld",
+    "Wohnraum-Angebot und Hilfe bei der Wohnungssuche",
+    "Fahrtkostenzuschuss und Jobrad-Leasing",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Firmenhandy",
+    "Flache Hierarchien und freundliches Arbeitsklima",
+    "Betriebsausflüge, Firmenfeiern und Getränke-Flatrate"
+  ],
+  "aufgaben": [
+    "Du organisierst und strukturierst die täglichen Abläufe in der Milchviehhaltung",
+    "Du verantwortest Tiergesundheit und Fruchtbarkeitsmanagement und steuerst das Klauenpflege-Team",
+    "Du arbeitest eng mit der Betriebstierärztin und externen Fachberatern zusammen",
+    "Du dokumentierst in HERDEplus und gemäß Bioverordnung",
+    "Du führst das Team, entwickelst es weiter und packst in Arbeitsspitzen mit an"
+  ],
+  "anforderung": "Fundiertes Fachwissen in der Milchviehhaltung („Kuhverstand“), Organisationstalent und Führungskompetenz. Erfahrung in der ökologischen Milchviehhaltung oder hohe Bereitschaft zur Einarbeitung – dazu Teamfähigkeit und eigenverantwortliches Arbeiten.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Milchviehhaltung",
+      "icon": "🐄",
+      "qualifikationen": [
+        {
+          "label": "Herdenmanagement mit Führung",
+          "icon": "🧭"
+        },
+        {
+          "label": "Fachkraft im Betrieb",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium Landwirtschaft",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Ökologische Milchviehhaltung",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Herdenmanagement mit Führung",
+          "icon": "🧭"
+        },
+        {
+          "label": "Fachkraft im Betrieb",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium Landwirtschaft",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Andere Tierhaltung / Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Herdenmanagement mit Führung",
+          "icon": "🧭"
+        },
+        {
+          "label": "Fachkraft im Betrieb",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium Landwirtschaft",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium in anderem Fach",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "800",
+        "label": "Milchkühe"
+      },
+      {
+        "zahl": "50",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "1991",
+        "label": "gegründet"
+      }
+    ],
+    "text": "APLANA bewirtschaftet in Golzow und Wollin (Brandenburg) einen der größten Bio-Milchviehbetriebe Deutschlands: rund 800 Milchkühe, mit geplanter Erweiterung ab 2027 auf rund 1.200 Tiere und neuem Stallbau. Biomilch nach strengen ökologischen Kriterien, eine angestellte Betriebstierärztin und moderne Technik wie Nedap-Halsbänder zur Brunsterkennung und Feedlync-Fütterung erleichtern dir die tägliche Arbeit."
+  },
+  "kunde_tab": "32 Agrar Planetal Golzow",
+  "quelle": "https://agrar-planetal-golzow.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Golzow (Potsdam-Mittelmark)"
+  },
+  "hero_bild": "img/hero-futtertisch.jpg",
+  "bilder": [
+    "img/f1-tiergesundheit.jpg",
+    "img/f2-herde-weide.jpg",
+    "img/f3-stall-fuetterung.jpg",
+    "img/f4-neuer-stall.jpg",
+    "img/f5-hof-luftbild.jpg",
+    "img/f6-weide-windraeder.jpg"
+  ]
+}
